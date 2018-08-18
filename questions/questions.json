@@ -1,0 +1,63 @@
+{
+    "question_vn":{
+        "question1":{
+            "Correct":"Answer A",
+            "Q":"Question 1 plaplaplaplalpplaplaplpalpalpalpalpalpalpalpalpalpalpalpalplaplaplaplaplaplaplaplaplaplaplaplaplaplpalp"    ,
+            "A":"Answer A1",
+            "B":"Answer B1",
+            "C":"Answer C1"
+        },
+        "question2":{
+            "Correct":"Answer C",
+            "Q":"Question 2 plaplaplaplalpplaplaplpalpalpalpalpalpalpalpalpalpalpalpalplaplaplaplaplaplaplaplaplaplaplaplaplaplpalp"    ,
+            "A":"Answer A2",
+            "B":"Answer B2",
+            "C":"Answer C2"
+        },
+        "question3":{
+            "Correct":"Answer D",
+            "Q":"Question 3 plaplaplaplalpplaplaplpalpalpalpalpalpalpalpalpalpalpalpalplaplaplaplaplaplaplaplaplaplaplaplaplaplpalp"    ,
+            "A":"Answer A3",
+            "B":"Answer B3",
+            "C":"Answer C3"
+        },
+        "question4":{
+            "Correct":"Answer B",
+            "Q":"Question 4 plaplaplaplalpplaplaplpalpalpalpalpalpalpalpalpalpalpalpalplaplaplaplaplaplaplaplaplaplaplaplaplaplpalp"    ,
+            "A":"Answer A4",
+            "B":"Answer B4",
+            "C":"Answer C4"
+        }
+    },
+
+    "question_en":{
+        "question1":{
+            "Correct":"Answer A",
+            "Q":"Question EN 1 plaplaplaplalpplaplaplpalpalpalpalpalpalpalpalpalpalpalpalplaplaplaplaplaplaplaplaplaplaplaplaplaplpalp"    ,
+            "A":"Answer A1",
+            "B":"Answer B1",
+            "C":"Answer C1"
+        },
+        "question2":{
+            "Correct":"Answer C",
+            "Q":"Question EN 2 plaplaplaplalpplaplaplpalpalpalpalpalpalpalpalpalpalpalpalplaplaplaplaplaplaplaplaplaplaplaplaplaplpalp"    ,
+            "A":"Answer A2",
+            "B":"Answer B2",
+            "C":"Answer C2"
+        },
+        "question3":{
+            "Correct":"Answer D",
+            "Q":"Question EN 3 plaplaplaplalpplaplaplpalpalpalpalpalpalpalpalpalpalpalpalplaplaplaplaplaplaplaplaplaplaplaplaplaplpalp"    ,
+            "A":"Answer A3",
+            "B":"Answer B3",
+            "C":"Answer C3"
+        },
+        "question4":{
+            "Correct":"Answer B",
+            "Q":"Question EN 4 plaplaplaplalpplaplaplpalpalpalpalpalpalpalpalpalpalpalpalplaplaplaplaplaplaplaplaplaplaplaplaplaplpalp"    ,
+            "A":"Answer A4",
+            "B":"Answer B4",
+            "C":"Answer C4"
+        }
+    }
+}
